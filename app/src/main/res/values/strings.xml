@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMSListenerApp</string>
+    <string name="this_sms_receiver_app">Ini aplikasi SMS Receiver</string>
+    <string name="check_sms_permission">Check SMS permission</string>
+    <string name="download_file">Download a File</string>
+    <string name="this_play">Oii, Main kesini jadi ngga? sekarang yak.</string>
+    <string name="close">Tutup</string>
+    <string name="coming_from">Datang dari</string>
+</resources>
